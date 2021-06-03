@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An astrologicall judgement vpon His Majesties present martch begun from Oxford, May 7. 1645. By Geo: Wharton.</title>
+            <author>Wharton, George, Sir, 1617-1681.</author>
+         </titleStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96275</idno><idno type="EEBO-CITATION">99899420</idno>
+  <idno type="VID">153751</idno>
+  <idno type="EEBO-PROQUEST">2240874091</idno>
+  
+            <idno type="STC">Wing W1542</idno>
+            <idno type="STC">ESTC R225567</idno>
+            <idno type="PROQUEST">99899420</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899420e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2377:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An astrologicall judgement vpon His Majesties present martch begun from Oxford, May 7. 1645. By Geo: Wharton.</title>
+                  <author>Wharton, George, Sir, 1617-1681.</author>
+               </titleStmt>
+               <extent>[12] p. : tables  </extent>
+               <publicationStmt>
+                  <publisher>As it was printed at Oxford by H. Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Prophecies --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153751:1"/>
+            <p>AN ASTROLOGICALL JVDGEMENT <hi>VPON HIS</hi> MAJESTIES Present Martch: Begun from OXFORD, <hi>May</hi> 7. 1645.</p>
+            <q>
+               <p>
+                  <hi>Ludit in humanis divins potentia rebus.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>By</hi> GEO: WHARTON.</p>
+            <p>As it was Printed at OXFORD by <hi>H. Hall,</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153751:2"/>
+            <head>To the Friendly and Judicious READERS.</head>
+            <p>YOU have here (at the request of some <hi>Honourable Personages</hi>) <hi>an Astrologicall judgement,</hi> upon the future successe of His <hi>Majesties</hi> present <hi>Martch</hi> begun the seventh of <hi>May</hi> Instant. It is delivered in <hi>Gene<g ref="char:EOLhyphen"/>rall</hi> Termes, for I neither will nor dare descend to <hi>Particu<g ref="char:EOLhyphen"/>lars:</hi> that would require the knowledge of many things, besides His <hi>Majesties Nativity,</hi> which I may not presume to meddle with; It being in it selfe both unlawfull and very dangerous to publish any thing concerning the par<g ref="char:EOLhyphen"/>ticular fortunes and Destinies of <hi>Princes.</hi> For this <hi>Thra<g ref="char:EOLhyphen"/>sybulus, Ascletarion</hi> and <hi>Gauricus,</hi> were much to blame; the first whereof foretold the Destruction of <hi>Tiberius</hi> the <hi>Emperour;</hi> the second, of <hi>Domitian;</hi> the third, of <hi>Benti<g ref="char:EOLhyphen"/>vola</hi> in <hi>Bononia:</hi> So likewise the <hi>Priest</hi> that caused the Rumour of the future <hi>Murthering</hi> of <hi>Galeacius Sfortia Duke</hi> of <hi>Millaine,</hi> who were all of them worthily re<g ref="char:EOLhyphen"/>warded for their folly. And so ought Master <hi>Lilly</hi> and Master <hi>Booker</hi> to be for their pernicious Pamphlets, wherein their sole endeavour hath hitherto been by most disloyall and ambiguous Phrases to animate and hasten on the <hi>Rebels</hi> and other <hi>Conspirators</hi> to plot and attempt <hi>Mischiefe</hi> against His <hi>Majesty,</hi> whereas an honest and dis<g ref="char:EOLhyphen"/>creet Artist ought not to divulge any thing (especially of <hi>Princes</hi>) that may any way tend to endanger their Persons, but either not to meddle at all, or else to deale privately with the <hi>Prince</hi> himselfe; and then also to adhere to <hi>Car<g ref="char:EOLhyphen"/>danes</hi> Rules in his book <hi>De astrolegicis Interogationibus:</hi>
+               <q>
+                  <pb facs="tcp:153751:2"/>
+                  <hi>Principine magnum malum firmiter unquam praedixeris, sed periculum.</hi>
+               </q> Howbeit <hi>Cardane</hi> himselfe dealt more plainly, and therefore more dangerously with <hi>Edward</hi> the Sixth, as appeareth in the <hi>Judicials</hi> of his <hi>Nativity</hi> given out in the beginning of his <hi>Duodecim Illustres Geniturae.</hi>
+            </p>
+            <p>But neither <hi>Cardane</hi> (notwithstanding he was a man of extraordidary credit) nor any other personall example can warrant any other private men to intermeddle with the <hi>Nativities</hi> of their <hi>Princes,</hi> otherwise then is before li<g ref="char:EOLhyphen"/>mited, or upon the <hi>Princes</hi> speciall command. And yet if in this respect or any other the Art happen to be abu<g ref="char:EOLhyphen"/>sed by some <hi>Spurij (non verifilij) Artis,</hi> it hath but the same fortune that other arts and Sciences have: And the Lawyers Rule is, That <hi>abusus non tollit usum.</hi> The bounds of which limitation I presume I have not any way excee<g ref="char:EOLhyphen"/>ded in this Discourse, which be pleased to accept as followeth.</p>
+         </div>
+         <div type="astrological_chart">
+            <pb facs="tcp:153751:3"/>
+            <head>A Celestiall Scheame, or Figure setting forth exact<g ref="char:EOLhyphen"/>ly the true position and state of the Heavens at the time his Majesty be<g ref="char:EOLhyphen"/>gan his Martch.</head>
+            <p>
+               <figure>
+                  <figDesc>astrological chart</figDesc>
+               </figure>
+            </p>
+            <p>Fortitudes and Debilities of the Planets, according to their <hi>scituation in the Figure.</hi>
+            </p>
+            <list>
+               <head>Saturnes Fortitudes reason of his</head>
+               <item>Being in his terme. 2</item>
+               <item>In the 9. House. 2</item>
+               <item>Direct. 4</item>
+               <item>Swift. 2</item>
+               <item>Orientally. 2</item>
+               <item>Free from Combustion. 5 17</item>
+               <item>Weake by reason of his fall. 4</item>
+            </list>
+            <list>
+               <head>Jupiters Fortitudes.</head>
+               <item>In his Terme. 2</item>
+               <item>Decade. 1</item>
+               <item>Tenth House. 5</item>
+               <item>Direct. 4</item>
+               <item>Swift. 2</item>
+               <item>Freedome from Combu<g ref="char:EOLhyphen"/>stion. 5 19</item>
+               <item>Debilitated by reason of his detriment. 5</item>
+               <item>Under the Sun-beams. 4</item>
+            </list>
+            <list>
+               <head>Mars his Fortitudes.</head>
+               <item>Direct. 4</item>
+               <item>Swift. 2</item>
+               <item>Freedome from Comb. 2 8</item>
+            </list>
+            <list>
+               <head>Debilites.</head>
+               <item>Peregrine. 5</item>
+               <item>In the twesth. 5</item>
+               <item>Occidentall. 2 12</item>
+            </list>
+            <list>
+               <head>Fortitudes of the Sum.</head>
+               <item>In the tenth House. 5</item>
+            </list>
+            <list>
+               <head>Debilities.</head>
+               <item>Peregine. 5</item>
+               <item>Slow in motions 2 7</item>
+            </list>
+            <list>
+               <head>Venus her Fortitudes.</head>
+               <item>In her House. 5</item>
+               <item>Triplicity. 3</item>
+               <item>In the tenth House. 5</item>
+               <item>Direct. 4</item>
+               <item>Swift. 2</item>
+               <item>Free from Comb. 5</item>
+               <item>Occidentall. 2</item>
+            </list>
+            <list>
+               <head>Debilities.</head>
+               <item>In ☌ with Cap. Algol. 5</item>
+               <item>Under the Sun-beams. 4 9</item>
+            </list>
+            <list>
+               <head>Mercury his Fortitudes.</head>
+               <item>In his House. 5</item>
+               <item>Triplicy. 3</item>
+               <item>In the tenth House. 5</item>
+               <item>Direct. 4</item>
+               <item>Swift. 2</item>
+               <item>Free from Comb. 5 24.</item>
+            </list>
+            <list>
+               <head>Debilities.</head>
+               <item>Occidentall. 2</item>
+            </list>
+            <list>
+               <head>The Moon her Fortitudes.</head>
+               <item>Free from Comb. 5</item>
+            </list>
+            <list>
+               <head>Debilities.</head>
+               <item>Peregrine. 5</item>
+               <item>In the fixth House. 4</item>
+               <item>Slow in motion. 2</item>
+               <item>Decreasing in light. 2</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:153751:3"/>
+            <head>An Astrologicall Judgement upon His MAIESTIES Martch.</head>
+            <p>BY this distribution the <hi>Fortitudes</hi> and <hi>Debilities</hi> of every Planet in the precedent Coelestiall Scheme are easily gathered: It followes then that we likewise confer them amongst themselves according to the respective Numbers of their <hi>Fortitudes</hi> and <hi>Debilities;</hi> that at may yet more manifestly appear, which of them are most strong and fortunate, which most weak and in<g ref="char:EOLhyphen"/>fortunat, and accordingly how they succeed one another in strength and power.</p>
+            <p>First then, the Planet <hi>Mercury</hi> of all the rest is simply most strong and for<g ref="char:EOLhyphen"/>tunate in the Scheme. For if the number of his <hi>Debilities</hi> be deducted from the sum of his <hi>Fortitudes</hi> there still remaineth 22 Testimonies of strength, which no other Planet obtaineth in the <hi>Figure.</hi>
+            </p>
+            <p>The next in dignity is <hi>Venus,</hi> who hath 17 Testimonies; then <hi>Saturne</hi> and <hi>Jupiter,</hi> who are both very powerfull; the first of them being endued with 13 the latter with 10 <hi>Dignities: Mars</hi> and the <hi>Sunne</hi> are both but weake in re<g ref="char:EOLhyphen"/>spect of their <hi>Essentiall Dignities:</hi> yet for some Circumstances very cousidera<g ref="char:EOLhyphen"/>ble in this case, the <hi>Sunne</hi> may be said to be the stronger, which being gene<g ref="char:EOLhyphen"/>rally taken is a good and laudable token.</p>
+            <p>The <hi>Moone</hi> of all others is the most debilitated, her <hi>Detriments</hi> exceeding her <hi>Fortitudes</hi> by 8, which will prove very advantagious to His Majesty, as hereafter shall be noted. And thus much generally touching the constitution of the Planets in the <hi>Figure.</hi>
+            </p>
+            <p>Now to descend more particularly to the present matter: We are (in this case) principally to consider foure things.</p>
+            <p>
+               <hi>First,</hi> the <hi>Ascendent</hi> of the <hi>Scheme,</hi> which is the <hi>Significator</hi> of the <hi>City</hi> from whence his <hi>Maiesty</hi> began his <hi>March:</hi> From which house we are to collect the condition and state of this City during his <hi>Maiesties</hi> absence.</p>
+            <p>
+               <hi>Secondly,</hi> the 10 <hi>House,</hi> which (according to <hi>Haly</hi>) is the <hi>Significatrix</hi> of the journey: And from this we are to deduce our judgement of his <hi>Maiesties</hi> suc<g ref="char:EOLhyphen"/>cesse during the time of his <hi>March.</hi>
+            </p>
+            <p>The <hi>Third</hi> thing to be considered is the 7 <hi>House,</hi> by which we are to judge how his <hi>Maiesty</hi> is likely to be received in those parts where his Army shall passe, and of his successe against the Enemy.</p>
+            <p>And <hi>lastly,</hi> the <hi>fourth House;</hi> whereby we are to informe our selves of his <hi>Ma<g ref="char:EOLhyphen"/>iesties</hi> successe in the returne.</p>
+            <p>
+               <q>
+                  <hi>Vnde si quis istorum locorum melior, &amp; fortunatior fuerit factus, significat bo<g ref="char:EOLhyphen"/>nitatem in illa sua significatione: Et si quis fuerit malè afflatus &amp; u<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cens, signifi<g ref="char:EOLhyphen"/>cat damnum in ill a sua significatione. Vid. Haly, pag.</hi> 328.</q>
+            </p>
+            <p>As concerning the first, we finde the 22 degree of the <hi>Regall signe Leo</hi> at that instant ascending our <hi>Horizon, Cor Leonis</hi> in the <hi>Ascendent:</hi> And the <hi>Dragons
+<pb facs="tcp:153751:4"/>Head</hi> in the very <hi>Cuspe</hi> thereof: And the <hi>Sun (Lord</hi> of the <hi>First House</hi>) not un<g ref="char:EOLhyphen"/>fortunately posited in the <hi>South Angle</hi> of the Heavens: Which is the house of <hi>Empire, Rule, Dignities, Offices, and Arts, &amp;c.</hi> And he environd with the two Benigne Planets <hi>Jupiter</hi> and <hi>Venus,</hi> who likewise behold the Ascendent and are free from any configuration with the <hi>Malevolents.</hi> These are evident and undeniable Testimonies of the <hi>Honour</hi> and <hi>safety</hi> of this famous <hi>Vmuersity and Citie of Oxford;</hi> And of the <hi>care</hi> and vigilancy of those that are intrusted by his Majesty with the government thereof: Of the <hi>Fidelity, Courage, Industry,</hi> and necessary <hi>Expence</hi> of her <hi>Inhabitants</hi> for the <hi>Defence</hi> of it: And of their conformity to such wholsome <hi>Orders,</hi> as either are or shall hereafter be made by the Wisdome of the <hi>Councellours</hi> for the good and Benefit of the <hi>City.</hi>
+            </p>
+            <p>In a word, All the good our hearts can wish for is promised us by the <hi>Scheme.</hi> I hope the seasonable care taken, and the Directions already given for pre<g ref="char:EOLhyphen"/>vention of the Sicknesse will adde very much to our happinesse: Some strange kinde of Mortality must be expected this yeere in most Cities and great Townes, throughout the South, South-East, and South-West parts of this Kingdome: But especially let <hi>London</hi> be forewarned of her misery: She is much (and that deservedly) threatned. You may heare more of her after the 23 of <hi>May</hi> instant, for from thence doth the Influence of <hi>Saturnes</hi> Transite our of <hi>Aries</hi> into <hi>Taurus</hi> begin to operate.</p>
+            <p>As touching the second thing here considerable, which is the <hi>tenth House;</hi> we may observe the <hi>ninth Degree</hi> and 31 <hi>min.</hi> of <hi>Taurus Culminating,</hi> which is the <hi>House</hi> and <hi>Triplicity</hi> of <hi>Venus;</hi> wherein also she is most fortunately seated within 3 <hi>Degrees</hi> of the <hi>Cuspe</hi> thereof, beholding the <hi>Ascendent,</hi> free from <hi>Com<g ref="char:EOLhyphen"/>bustion,</hi> or any configuration with the <hi>Malevolent</hi> Planets; being <hi>Direct</hi> and <hi>Swift</hi> of Motion, and <hi>Orientall</hi> of the <hi>Sunne:</hi> To her (therefore) may we just<g ref="char:EOLhyphen"/>ly attribute the signification of his <hi>Maiesties Martch:</hi> Who being (by nature) Benevolent, by her <hi>Essentiall</hi> and <hi>Accidentall</hi> Position so fortunate: We can<g ref="char:EOLhyphen"/>not pronounce lesse to his <hi>Maiesty,</hi> and his whole Army, then a wonderfull <hi>hap<g ref="char:EOLhyphen"/>py, prosperous</hi> and <hi>successefull Martch,</hi> And contrarily exceeding much <hi>Feare</hi> and <hi>Terrour, dissipation</hi> and utter <hi>Ruine</hi> to his <hi>Enemies.</hi>
+            </p>
+            <p>The <hi>Dragons Head</hi> in the <hi>Cuspe</hi> of the <hi>Ascendent</hi> tels us, <q>
+                  <hi>quod habebit honum antequam se inde moveat, &amp; in principio It neris, Haly par.</hi> 3. <hi>pag.</hi> 108.</q> This was verified it part by that gullant Encounter with the Enemy, per<g ref="char:EOLhyphen"/>formed (with so good successe) by the Right Honourable the Lord <hi>Goring</hi> neere <hi>Newbridge</hi> the same seventh day; occasioned upon his <hi>Maiesties</hi> Moti<g ref="char:EOLhyphen"/>on hence.</p>
+            <p>The Generality of this good to his <hi>Maiestie</hi> and his Army, is further confirm<g ref="char:EOLhyphen"/>ed by the Powerfull presence of <hi>Jupiter,</hi> the <hi>Sun,</hi> and <hi>Mercury</hi> in the <hi>South-an<g ref="char:EOLhyphen"/>gle;</hi> and the unfortunate Positure of the <hi>Moone</hi> in the <hi>Figure, &amp;c.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>Artabari dixit: Si quando Rex, vel alius voluevit capere inimicum qui sit va<g ref="char:EOLhyphen"/>loris minoris co; statuat ☽ in ☌, aut ☍, vel in via combust. aut cum ☊, vel ☋, &amp;c. Et sol sit salvus &amp; p<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rus ab infortuniis &amp; in medio coeli sint fortunae; Eti<g ref="char:EOLhyphen"/>am si quando magis infortunata fuerit ☽ crit peius &amp; maius damnum pro illo in<g ref="char:EOLhyphen"/>imico, quia ☽ est significatrix Populi, &amp;c. ac servorum, Haly, page</hi> 340.</q>
+            </p>
+            <p>We have here (as before we noted) the <hi>Sunne,</hi> both the <hi>Fortunes,</hi> and, <hi>Mercu<g ref="char:EOLhyphen"/>ry</hi>
+               <pb facs="tcp:153751:4"/>safely seated in the <hi>Mid-heaven:</hi> And the <hi>Moone</hi> (who naturally, (and in this case especially) signifieth the many-headed-monster <hi>Multitude,</hi> (such persons as in <hi>January</hi> 1641. tumultuously assembled themselves (to the hazard of his <hi>Maiesties royall Person</hi>) to cry for <hi>Blood</hi> in the Termes of <hi>Justice;</hi> those who through their pretended zeale to I know not what, have brought the curse of God upon themselves and the whole Kingdome, first by slaying the Inno<g ref="char:EOLhyphen"/>cent in cold Blood, and ever since by Engageing their Persons and estates in this most unnaturall and Bloody Warre against his <hi>Maiesty.</hi>) The <hi>Moone,</hi> I say, who is the naturall <hi>significatrix</hi> of such meane Capacities is in the 6 <hi>House</hi> very <hi>sick (Master Lilly)</hi> and nigh to the <hi>Dragons Tayle.</hi> These Positions will puzle and stupifie the <hi>misguided Commonalty,</hi> and make them know theres such a thing as <hi>Allegiance.</hi>
+            </p>
+            <p>More particularly; the <hi>Sun</hi> thus posited, and also <hi>Mercury</hi> being free from <hi>Combustion</hi> and the <hi>Infortunes;</hi> And the <hi>Dragons head</hi> so neere the <hi>Cuspe ascend<g ref="char:EOLhyphen"/>ing;</hi>
+               <q>
+                  <hi>Salvationem corporis, agilitatem, &amp; gaudium in Itinere fignificant, bo<g ref="char:EOLhyphen"/>namque fiduciam, &amp; applicari ad id quod vult. Haly, page</hi> 324.</q>
+               <hi>Jupiters</hi> Positi<g ref="char:EOLhyphen"/>on in the 10 <hi>House</hi> confirmes the same. <hi>Haly page</hi> 328.</p>
+            <p>The <hi>Moone</hi> Lady of the 12, and moving betwixt the 8 degree, 34 min. and 21 degr. 26 min. of <hi>Aquarius,</hi> gives us to understand that His <hi>Maiestie</hi> shall receive much contentment by certaine <hi>Messages</hi> brought him from <hi>Foraigne parts;</hi> and that he shall receive some sudden and unexpected supply of by the meanes of some that assimulate the condition of his Enemies: and with<g ref="char:EOLhyphen"/>all this comfort; That His <hi>Maiesty</hi> shall be exceeding successefull in besieging of Towne; Castles, or Forts, and in pursuing the Enemy. See <hi>Haly, pa.</hi> 346.</p>
+            <p>
+               <hi>Mars his Sextile</hi> to the <hi>Sunne Lord</hi> of the <hi>Ascendant,</hi> (which happeneth the 18 day of <hi>May</hi>) will encourage our Souldiers to advance with much Alacrity and chearfulnesse of spirit; and to shew themselves gallant in the most dange<g ref="char:EOLhyphen"/>rous attempts.</p>
+            <p>The <hi>Ascendent</hi> and tenth <hi>house</hi> being both <hi>Fixed Signes,</hi> tell us, That the Martch shall not be so speedy as is expected; but with great deliberation and care of setling the Affaires of the distracted Counties through which his <hi>Ma<g ref="char:EOLhyphen"/>iestie</hi> passeth. Yet the great dominion of <hi>Mercury</hi> doth intimate quick Action about the latter end of <hi>June,</hi> and the most part of <hi>Iuly.</hi> O! what snaffling there will be amongst the Zelots before the middle of <hi>November?</hi> How many dayes of Humiliation? what Feares? what Jealousies? what discontents and wranglings? what Murmurings? how many Lyes and Forgeries raised and dispersed to quicken a Dull and Dying Faction?</p>
+            <p>The next thing (in Order) which we are to consider, is, the Signe and degr. of the 7 <hi>House,</hi> which in this Scheme is the 22 degr. and 21 min. of <hi>Aquarius,</hi> the house of <hi>Saturne,</hi> but Terme of <hi>Jupitur, Saturne</hi> being in the 9 house of the Heavens in the end of <hi>Aries,</hi> and in a <hi>Sextile</hi> with the <hi>Cuspe</hi> of the 7 House, and in a <hi>Quartile</hi> with <hi>Mars.</hi>
+            </p>
+            <p>
+               <q>
+                  <hi>Si gradus 7 domus fuerit dignitas 4 timebitur &amp; honorabitur &amp; credetur eius verbis a gente illius Terrae ad quam vadit, &amp; erit dilectus, a Gente Terrae ad quam vadit cum gaudio, et laetitiâ.</hi>
+               </q>
+            </p>
+            <pb facs="tcp:153751:5"/>
+            <p> Here by the word <hi>Gente</hi> we must understand the <hi>County</hi> or <hi>Counties</hi> princi<g ref="char:EOLhyphen"/>pally aymed at by His <hi>Maiesty.</hi> And this happy reception is further attested by the propinquity of <hi>Venus</hi> to the <hi>Sunne</hi> as he is <hi>Lord</hi> of the <hi>Ascendent,</hi> and in the House of <hi>Kings, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Aquarius</hi> being a fixed Signe, tels us that he shal not quickly remove thence, but remaine there some convenient time for the setling of some important Af<g ref="char:EOLhyphen"/>faires, and a full reducing of those Counties to their obedience.</p>
+            <p>If any man would be satisfied to what Quarter of the Heavens the designe is intended, although he may guesse something by the Motion which the Army hath already made; yet he may informe his Judgement best by considering the Signes of the 4 <hi>Angels, viz. Leo, Taurus, Aquarius,</hi> and <hi>Scorpio,</hi> (which he shall find to be the one halfe <hi>Northerne,</hi> the other <hi>Southern;</hi> and also the Signs wherein the Planets are, viz. <hi>Aries, Taurus, Gemini, Leo and Aquarius,</hi> which are all of them (except the laft wherein the <hi>Moone</hi> is) <hi>Septentrionall.</hi> Which will assuredly determine that the Progresse and principal Actions of this Army or the greatest part thereof are like to be <hi>Northerly,</hi> inclining sometimes to the <hi>East,</hi> otherwhiles to the <hi>West,</hi> as the Occasions of Warre requite.</p>
+            <p>The fourth and last thing to be examined is the 4 House: The <hi>Cuspe</hi> whereof is the 9 degree and 31 min. of <hi>Scorpio,</hi> the most viperous signe of the <hi>Zodiaque;</hi> where <hi>Mars</hi> hath the <hi>Dignities</hi> of <hi>house Triplicity</hi> and <hi>Decade;</hi> But is unfortu<g ref="char:EOLhyphen"/>nately collocated in the 12 house of the <hi>Figure.</hi> This position of his ought to forewarne our <hi>Commanders</hi> to take heed of some Disaster immediately before His <hi>Maiesty</hi> betake him to his <hi>Winter Quarters,</hi> It seemes to be the beating up of an Out-quarter, and the surprizall of some few of our Men, who value their ease more then their safety: I will say no more: But I hope the Diligence and vigilancy of our Commanders may prevent the danger.</p>
+            <p>And now to sum up all: It is most apparent to every impartiall and ingenu<g ref="char:EOLhyphen"/>ous Judgement; That (although His <hi>Maiesty</hi> cannot expect to be secured from every triviall disaster that may befall his Army, either by the too much pre<g ref="char:EOLhyphen"/>sumption, ignorance, or negligence of some particular persons, which is fre<g ref="char:EOLhyphen"/>quently incident and unavoydably in the best of Armies) yet the severall Po<g ref="char:EOLhyphen"/>sitions of the Heavens duly considered and compared amongst themselves, as well in the prefixed <hi>Scheme</hi> as at the <hi>Quarterly Ingresses,</hi> doe generally render His <hi>Maiesty</hi> and his whole Army unexpectedly victorious and succesfull in all his Designes: Beleeve it <hi>(London)</hi> thy miseries approach, they are like to be many, great and grievous, and not to be diverted, unlesse thou seasonably crave pardon of <hi>God</hi> for being <hi>Nurse</hi> to this present <hi>Rebellion,</hi> and speedily submit to thy Princes mercy; Which shall be the daily prayer of</p>
+            <closer>
+               <signed>Geo: Wharton.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:153751:5"/>
+            <head>POSTSCRIPT. Since the Impression of the <hi>Starry Mes<g ref="char:EOLhyphen"/>senger,</hi> and before its publishing, I received an <hi>Oxford</hi> Pamphlet, to which I returne this Answer, and so send them both into the world together.</head>
+            <head type="sub">An <hi>Examination</hi> of an <hi>Astrologicall</hi> Judgement upon His Majesties present Martch, begun from <hi>Oxford,</hi> 7. <hi>May,</hi> 1645. Set forth purposely by G. WHARTON to advance their declining condition, to impedite the Parliaments, and dishearten the City and Citizens of LONDON.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hile we divide, the Enemy unites; our factions prove their victories, <hi>Wharton</hi> in behalfe of our enemies appeares pub<g ref="char:EOLhyphen"/>likely, nay requested by personages of Honour <hi>(per fas aut nefas)</hi> whether he lie or not, so it advance, its no matter: are any so indulgent on our side, &amp;c?</p>
+            <p>I must begin with his Epistle, wherein the Author pro<g ref="char:EOLhyphen"/>fesses to deliver his Judgement in generall termes, and yet forgetfull, being not <hi>(mendax memor)</hi> a lyer of a good memory, he goes on in the whole discourse, assigning and determining the successe of his maiesties martch and his Army in particular words and termes, as appears, Fol. 4. line 20. 21. Fol. 5. line 10. Fol. 6. line 10. In all which places he proclaimes victory, upon victory to His Majestie, and not so much as the losse of one lowse on their own party.</p>
+            <p>In the next place he soberly dehorts Master <hi>Booker</hi> and my selfe from adhearing to the Parliament, and tells a tale of a tubb, as of <hi>Gauricus,</hi> a certaine Priest, &amp;c. That medled with the particular destiny of Princes, and were therefore well rewarded, and
+<pb facs="tcp:153751:6"/>so would he have Master <hi>Booker</hi> and mee, for publishing pernicious Pamphlets, as this man calls them.</p>
+            <p>Were I commanded, I would make it apparant, the Parliaments cause shall not want a Champion in Astrology to confute any thing in point of Art that can bee al<g ref="char:EOLhyphen"/>lcadged from the greatest Clerk, in <hi>Oxford.</hi>
+            </p>
+            <p>God is on our side; the Constellations of Heaven after a while will totally appeare for the Parliament, and cast terrour, horrour, amazement, and frights on all those Dammee-Blades now in Armes against us, &amp;c. But our Author in his Epistle goes on, and makes it evident, he hath read part of the last leafe in <hi>Cardan:</hi> whose words he re<g ref="char:EOLhyphen"/>cites, viz Never tell a King of any danger neer unto him: then, its probable, we must say as <hi>Ababs</hi> Prophets: <hi>Go to Ramoth Gilead and prosper:</hi> yes. so he did; for there the poor misled King was slaine: I am Master <hi>Wharton</hi> so farre from your mind, that did I know any suddain danger neer to His Majestie. I would adventure to the hazard of my life through both Armies to give him warning, and so would master <hi>Booker.</hi>
+            </p>
+            <p>Doe you Master <hi>Wharton</hi> read <hi>Cardan</hi> on the same side, and thereby rectifie your parti<g ref="char:EOLhyphen"/>all Judgement. <hi>In praedacendo, amoveas timorem, odium &amp; amorcm:</hi> when you take upon you to praedict to a Prince (as you now in particuler do) neither speak or write out of feare, hatred or love: and you might know what <hi>Ptolom<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> commands, viz: that in every Judgement we beware of flattery and hatred, for that renders the Art fallible, and the Artist scandalous.</p>
+            <p>You are guilty in the breach of these Aphorismes, while you call our Parliament Re<g ref="char:EOLhyphen"/>bels, and convert every Judgement to signifie victory to his Majesty: and leave the end of His martch untoucht because you love to speak <hi>Placentia:</hi> for in truth the scheame it self promises an unluckie end to your so fortunate and so much applauded martch. Doe but read <hi>Goclenius in discursu pro Astrolo.</hi> Fol. 112. <hi>Scotie reges fere omnes:</hi> and a little fur<g ref="char:EOLhyphen"/>ther; <hi>Anglorum fere reges omnes;</hi> having perused those words, deal plainly with the world, and those Honourable personages at Oxford, which imploy you.</p>
+            <p>For his Majesties Nativity, I thinke Master <hi>Booker</hi> and I have some other better im<g ref="char:EOLhyphen"/>ployments, we love not to take paines for so slight a reward as followes the handling the <hi>Genesis</hi> of a Prince without His consent: but get me publike license, under His Majestie hand, and them <hi>George,</hi> have at any thing, else not.</p>
+            <div type="part">
+               <head>His Majesties Martch (as is suggested) began Wednesday <hi>7.</hi> May, <hi>1645. 10. 32.</hi> A.M.</head>
+               <p>THe body of the discourse intends two things principally; threatnings against the City of <hi>London,</hi> victories to His maiestie, or confusion to His enemies, &amp;c.</p>
+               <p>Not to play the Critick with this University Freshman, or Cavill at his ignorance in collecting the debilities of <hi>Venus</hi> which he makes more then they are by placing her, in Coniunction with <hi>Caput Algol,</hi> whose Longitude is 20.54. Of <hi>Taurus, vide Orig.</hi> 175. Nor is <hi>Mercury</hi> debilitated by occidentallity: <hi>Orig.</hi> 540. Nor is <hi>Venus fortified by Orien<g ref="char:EOLhyphen"/>lity,</hi> but debilitated: Honest <hi>George</hi> cannot yet get out of his Horn-book. I begin with his Astrologicall Judgement spued out against <hi>London,</hi> out of His Maiesties Martching figure: Fol. 4. line 3. <hi>London is bereby forewarned of her misery, and deserved<g ref="char:EOLhyphen"/>ly hereby threatned.</hi>
+               </p>
+               <p>
+                  <hi>Lilly,</hi> Well may <hi>George</hi> have a great Whetston, he well deserves it; out of his owne words its lawfull to beate him, and so I will.</p>
+               <pb facs="tcp:153751:6"/>
+               <p> That <hi>Gemini</hi> is the ascendant of the City of <hi>London</hi> all Authors agree, and <hi>George</hi> ac<g ref="char:EOLhyphen"/>knowledged in his first Progg.</p>
+               <p>That <hi>Mercury</hi> is Lord of that signe, and simply most strong in this present figure, its his owne words at this time.</p>
+               <p>Neither is the signe, or Lord thereof afflicted, but on the contrary the most Potent Planet in the figure, yea more dignifyed then <hi>Sol</hi> or <hi>Venus,</hi> he is in Conjunction with <hi>Jupiter,</hi> and in Trine with the <hi>Moone</hi> who translats the Light and Virtue of <hi>Venus</hi> to <hi>Mer<g ref="char:EOLhyphen"/>cury:</hi> now according to <hi>George</hi> his owne words, Fol. 3. These are undeniable testimo<g ref="char:EOLhyphen"/>nyes both of the safety and honour of this famous City and Citizens thereof, nor doth it in the least particle point out by this his Majestyes martch any danger, losse, misery, or accidents unto them; this Constellation foretells what fame and esteeme the Citi<g ref="char:EOLhyphen"/>zens hereof shall attaine, by being the Kingdomes Bulwarke against Tyranny and Op<g ref="char:EOLhyphen"/>pression, by releeving the many thousands plundred and pillaged by his Majestyes for<g ref="char:EOLhyphen"/>ces: and that this city shall get into their power one time or other all their enemies, perhaps in a very short time, for we see <hi>Mercury</hi> disposeth of <hi>Jupiter:</hi> I seriously avow upon my reputation to the whole Kingdome, this Judgement I give, is, and will prove true according to the Scheame of heaven <hi>Wharton</hi> hath set, &amp;c. Who prosecutes his story with many invectives alleadged without Art or Judgement, and last of all, invites me to the Combate, with these words, <hi>The Moone is in the 6, very sick (Master Lilly) and meere the Dragons tayle, this will teach the Citizens their Allegiance.</hi>
+               </p>
+               <p>An Vtopian judgement Master <hi>Wharton,</hi> that the afflicted <hi>Moone</hi> in the sixt should teach us slavery: Our obedience we well know, we have performed our Allegiance, un<g ref="char:EOLhyphen"/>till necessity inforced us for the Defence of the Parliament and our owne greivances to stand in Armes, and ingage our persons for the Publique Good: but what is this to the thing in question. Master <hi>Wharton</hi> see to it, there hath beene one Eclips in <hi>Leo,</hi> there will be another the eleventh of <hi>August,</hi> Remember <hi>George.</hi> The last Vomit against the city is an imprecation, that unlesse they submit to their Princes mercy, he like one of <hi>Baalls</hi> Preists falsely prophesieth such things unto them as cannot be diverted. But in what Apocripha he learned this Astrology, it appeares not to mee; no not out of quar<g ref="char:EOLhyphen"/>terly Ingresses, which are signifycantly all averse to his majesty and that party.</p>
+               <p>Master <hi>Wharton,</hi> having left the City with a curse, begins with full Sayles to tell us, <hi>All the good our hearts can wish for is promised by this Sobeame;</hi> Stay false prophet, your hearts wish every day for the City of <hi>London,</hi> and can never have it; he goes on, and tells <hi>how his Majesty shall pursue his enemies, besiege Townes, Castles, Forts, Ruine us, have great suecesse in all his Designes: Cum multis aljis, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Lilly.</hi> This must needes be a happy election of time, or else <hi>George</hi> a stickling Pro<g ref="char:EOLhyphen"/>phet, for he pipes out nothing but victory for his maiesty: Be it granted, that the stor<g ref="char:EOLhyphen"/>ming of <hi>Leiceister</hi> hath in part verefied some port of this prediction, (and a little treason besides) yet I deny it was signifyed by this positure, or that the rest of this mans words shall have like successe: Nay, by position of <hi>Mars</hi> Lord of the fourth, in the twelfe, his Majesty shall not keepe that Town very long, or any else that he may take in this Pro<g ref="char:EOLhyphen"/>phetick martch, without infinite losse on his party: <hi>Venus</hi> in her house, doth assuredly tell us we shall keepe <hi>Evesham</hi> taken by plaine valour, and were it not for that accursed <hi>Cauda</hi> in <hi>Aquarius</hi> we should seldome be loosers, but be gayners, but Division and Trea<g ref="char:EOLhyphen"/>son have got an habit and live with us, and are your freinds, yea your onely freinds.</p>
+               <p>The figure doth at the begining promise successe, but the end of this martch will be unlucky, and foreshew some willfull obstinate Commanders on his Maiestyes side, will
+<pb facs="tcp:153751:7"/>afford us an absolute victory over you, <hi>George</hi> for pure love, I tell you, there is in the Army such as the trayterous Butcher in <hi>Leicester.</hi> But upon examination, I finde that the Sunne whom <hi>George</hi> magnifyes so much is in square to the Ascendant, in Coniuncti<g ref="char:EOLhyphen"/>on with the <hi>Virgilliae,</hi> twas no such prime time, observe the end, waite a few monthes, and consider if the Astrologer that elected this time for his Maiesty deserves not more punishment then Master <hi>Booker</hi> or <hi>Lilly:</hi> Herein <hi>George</hi> I will make you Judge, an honour you were never troubled with, nor are capable now, but that the thing is easie. See <hi>Guido</hi> Fol. 480. Whose words are: When you will elect a fit time for a King, &amp;c. Let not the Sunne or Moone be unfortunate or the Sun in a feminine signe; let him have dignity where he is, the Sun in this scheame is totally unfortunate, so is the Moon an ill Omen <hi>(George)</hi> to his Maiesty that he will hardly keepe any thing he gets; <hi>Oxford,</hi> be<g ref="char:EOLhyphen"/>ing <hi>(Locus a quo)</hi> is like to be safe awhile and the Judgement therein good, but you ex<g ref="char:EOLhyphen"/>pose his Maiesty to infinite danger. Againe, see in the same Folio these words; Consider saith <hi>Guido,</hi> if in the same yeare there had beene or will be an Eclips, and in all electi<g ref="char:EOLhyphen"/>ons avoide that signe, and let the two Lights be in Trine or Sextill, the more fortunate the Lights are, so much the better, and so the Contrary.</p>
+               <p>It is knowne there was a <hi>Lunar</hi> Eclips in <hi>January</hi> in <hi>Leone,</hi> the effects thereof began in <hi>Aprill,</hi> Continue till the end of <hi>June,</hi> &amp;c. That very Degree wherein the Eclips was, have you elected to be the Ascendant of his Maiestie and his Armyes martch: In <hi>Au<g ref="char:EOLhyphen"/>gust</hi> there is a <hi>Solar</hi> Eclips, &amp;c. In this figure the Moone applyes to asquare of the Sun in fixed signes: Beleeve mee, heare is no continuance of your successes, not the taking of so many Towns, Forts, or Castles, or such routing of our Armyes, as you Master <hi>Whar<g ref="char:EOLhyphen"/>ton</hi> delude the world with. He was none of his Maiestyes Freinds, that gave Direction for this martch; the sequell will tell you so, ere you returne to your winter quarters if any be left for you, Keep Leicester if you can, July may give it us againe.</p>
+               <p>After some evacuated Chollar, <hi>VVbarton</hi> bursts out for very ioy into these wordes, <hi>Oh what snuffling there will be amongst the Zelots, before the middle of November.</hi> He goes on and derides our humiliation, &amp;c. Do so still and prosper; God will not be mocked, whose Cause we doe maintaine, though I confesse not as it ought to be.</p>
+               <p>But let me tell you, such shall be our victories before the time limited by you be halfe come, that me thinks I hear the many accursed oaths the dam-boyes spue out both against God and man. Oh what sculking, sneaking, running into Corners, mouse-holes, saw<g ref="char:EOLhyphen"/>pits, Cunny berries, tossing and tumbling the ungodly out of one County into another, doe I foresee: face about Gentlemen sayes one for our honour, as you did at <hi>Newberry,</hi> that is with a good pair of heeles, or alls lost say I; Oh the way to <hi>Bristoll,</hi> from thence to <hi>Exceter,</hi> then into <hi>Cornewall,</hi> thence into a safe harbour, if any can bee found for Malignants, Now Master <hi>VVbarton</hi> I leave you, till again provoked by a more able Astrologer, and I desire you to get into your Accidence against the publishing of the next Journall or else you will be stript out of the remainder of the Prerogative Astro<g ref="char:EOLhyphen"/>logy by Master <hi>Booker</hi> in his next <hi>Almanack;</hi> to the totall confusion, and dishonour of the Vniversity that suffer so weak an Artist to be their Standard-bearer; but money and Learning are equally plentifull in <hi>Oxford.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <date>12. <hi>June</hi> 1645.</date>
+                  </dateline>
+                  <signed>WILLIAM LILLY.</signed>
+               </closer>
+               <pb facs="tcp:153751:7"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
